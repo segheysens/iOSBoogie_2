@@ -13,6 +13,7 @@
 		B08D99D11BACCFCF00BA0777 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B08D99D01BACCFCF00BA0777 /* Assets.xcassets */; };
 		B08D99D41BACCFCF00BA0777 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B08D99D21BACCFCF00BA0777 /* LaunchScreen.storyboard */; };
 		B08D99DC1BACD3F500BA0777 /* README in Resources */ = {isa = PBXBuildFile; fileRef = B08D99DB1BACD3F500BA0777 /* README */; settings = {ASSET_TAGS = (); }; };
+		DC238B841BC5D0D2000659A3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC238B831BC5D0D2000659A3 /* Images.xcassets */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B08D99D31BACCFCF00BA0777 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B08D99D51BACCFCF00BA0777 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B08D99DB1BACD3F500BA0777 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		DC238B831BC5D0D2000659A3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B08D99D21BACCFCF00BA0777 /* LaunchScreen.storyboard */,
 				B08D99D51BACCFCF00BA0777 /* Info.plist */,
 				B08D99DB1BACD3F500BA0777 /* README */,
+				DC238B831BC5D0D2000659A3 /* Images.xcassets */,
 			);
 			path = Boogie2;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B08D99DC1BACD3F500BA0777 /* README in Resources */,
+				DC238B841BC5D0D2000659A3 /* Images.xcassets in Resources */,
 				B08D99D41BACCFCF00BA0777 /* LaunchScreen.storyboard in Resources */,
 				B08D99D11BACCFCF00BA0777 /* Assets.xcassets in Resources */,
 				B08D99CF1BACCFCF00BA0777 /* Main.storyboard in Resources */,
@@ -287,6 +291,7 @@
 				B08D99DA1BACCFCF00BA0777 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
